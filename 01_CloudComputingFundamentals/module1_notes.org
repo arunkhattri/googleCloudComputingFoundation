@@ -37,16 +37,29 @@ cloud computing is a continuation of a long-term shift in how computing resource
 
 ** Google Cloud Architecture
 *** Compute Services
+
 [[./images/compute.png]]
+
 *** Storage services
+
 [[./images/storage.png]]
+
 *** Big Data & ML
+
 [[./images/big_data_ml.png]]
+
 *** Google's Cable network
+
 [[./images/google_cable_network.png]]
+
 *** Multi-regional, regional and zonal network
+
 [[./images/regions_zone.png]]
+
 + present network
+
   [[./images/gcp_zones.png]]
+
 *** Resources Hierarchy
+
 [[./images/resources_hierarchy.png]]
