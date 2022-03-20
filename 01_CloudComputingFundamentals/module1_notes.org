@@ -1,0 +1,52 @@
+#+TITLE: Module1 Notes
+#+AUTHOR: Arun Kr Khattri
+* Course Map
+[[./images/course_map.png]]
+
+* Course Objective
+[[./images/course_objectives.png]]
+[[./images/course_objectives_2.png]]
+
+* Agenda of the Module
+** Cloud Computing
+*** Characteristics
++ On demand self service
++ Broad network access.
++ Resource pooling
++ Rapid elasticity
++ Measured service
+
+** Cloud Vs Traditional Architecture
+cloud computing is a continuation of a long-term shift in how computing resources are managed
+[[./images/cloud_history.png]]
+
+** Iaas, PaaS and SaaS
+*** Infrastructure as a Service
++ CPU, memory, storage, and networking is provided as a service.
++ The user needs to manage the OS and the application.
++ e.g: Compute Engine, pay for what you allocate.
+
+*** Platform as a Service
++ The platform is a managed service.
++ All the user provides is the application.
++ e.g.: App Engine, pay for what you use.
+*** Software as a Service
++ The platform and software is provides as a service to the user.
++ The user supplies the data.
++ e.g.: Managed Services,
+
+** Google Cloud Architecture
+*** Compute Services
+[[./images/compute.png]]
+*** Storage services
+[[./images/storage.png]]
+*** Big Data & ML
+[[./images/big_data_ml.png]]
+*** Google's Cable network
+[[./images/google_cable_network.png]]
+*** Multi-regional, regional and zonal network
+[[./images/regions_zone.png]]
++ present network
+  [[./images/gcp_zones.png]]
+*** Resources Hierarchy
+[[./images/resources_hierarchy.png]]
